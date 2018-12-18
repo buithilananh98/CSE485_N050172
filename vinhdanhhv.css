@@ -1,0 +1,108 @@
+*{
+    padding:0px;
+    margin:0px;
+   }
+   #he {
+       background: red;
+        height: 45px;
+        margin: auto;
+    }
+    #he img#home {
+        float: left;
+        height: 30px;
+        padding-left: 80px;
+
+    }
+    #he ul li{
+        list-style-type: none;
+        float: left;
+        width: 290px;
+        text-align: center;
+        line-height: 40px;
+        padding-right: 0px;
+    } 
+    #he ul li a{
+        text-decoration: none;
+    }
+    #menu{
+        background:white;
+        height: 350px;
+        margin: auto;
+    }
+    
+    nav img#ten {
+        float: left;
+        height: 80px;
+        padding-left: 80px;
+    }
+    nav img#so1 {
+        float: left;
+        height: 80px;
+        padding-left: 100px;
+    }
+    nav img#cn{
+        width: 100%;
+        height: 220px;
+        margin: auto;
+    }
+    section{
+        width: 1200px;
+        margin: auto;
+    }
+    #b h2 {
+        text-align: center;
+    }
+    #b ul {
+        padding: 20px ;
+    }
+    #b ul li{
+        list-style-type: none;
+    } 
+    
+
+#a1{
+    width:100%;
+}
+#b1{
+    text-transform: uppercase;
+    top: 330px;
+    left: 20px;
+    position: absolute;
+}
+#b2{
+    text-transform: uppercase;
+    top: 330px;
+    right:20px;
+    position: absolute;
+}
+footer{
+	width: 100%;
+	height: 65px;
+	background:red;
+	margin: auto;
+}
+footer > h4#Ten {
+	float: left;
+    padding-right: 190px;
+	color:white;
+	margin: auto;
+}
+
+footer > h4#DiaChi {
+	float: left;
+    padding-right: 100px;
+	color:white;
+	margin: auto;
+}
+footer > h4#DT {
+	float: left;
+    padding-right: 150px;
+	color:white;
+	margin: auto;
+}
+footer > h4#DD {
+	float: left;
+    padding-right: 100px;
+	color:white;
+	margin: auto;
+}
